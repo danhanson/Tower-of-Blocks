@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: b91b462267c56704f90762978c0f41b2
+timeCreated: 1475861411
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shapes_0
+    21300002: shapes_1
+    21300004: shapes_2
+    21300006: shapes_3
+    21300008: shapes_4
+    21300010: shapes_5
+    21300012: shapes_6
+    21300014: shapes_7
+    21300016: shapes_8
+    21300018: shapes_9
+    21300020: shapes_10
+    21300022: shapes_11
+    21300024: shapes_12
+    21300026: shapes_13
+    21300028: shapes_14
+    21300030: shapes_15
+    21300032: shapes_16
+    21300034: shapes_17
+    21300036: shapes_18
+    21300038: shapes_19
+    21300040: shapes_20
+    21300042: shapes_21
+    21300044: shapes_22
+    21300046: shapes_23
+    21300048: shapes_24
+    21300050: shapes_25
+    21300052: shapes_26
+    21300054: shapes_27
+    21300056: shapes_28
+    21300058: shapes_29
+    21300060: shapes_30
+    21300062: shapes_31
+    21300064: shapes_32
+    21300066: shapes_33
+    21300068: shapes_34
+    21300070: shapes_35
+    21300072: shapes_36
+    21300074: shapes_37
+    21300076: shapes_38
+    21300078: shapes_39
+    21300080: shapes_40
+    21300082: shapes_41
+    21300084: shapes_42
+    21300086: shapes_43
+    21300088: shapes_44
+    21300090: shapes_45
+    21300092: shapes_46
+    21300094: shapes_47
+    21300096: shapes_48
+    21300098: shapes_49
+    21300100: shapes_50
+    21300102: shapes_51
+    21300104: shapes_52
+    21300106: shapes_53
+    21300108: shapes_54
+    21300110: shapes_55
+    21300112: shapes_56
+    21300114: shapes_57
+    21300116: shapes_58
+    21300118: shapes_59
+    21300120: shapes_60
+    21300122: shapes_61
+    21300124: shapes_62
+    21300126: shapes_63
+    21300128: shapes_64
+    21300130: shapes_65
+    21300132: shapes_66
+    21300134: shapes_67
+    21300136: shapes_68
+    21300138: shapes_69
+    21300140: shapes_70
+    21300142: shapes_71
+    21300144: shapes_72
+    21300146: shapes_73
+    21300148: shapes_74
+    21300150: shapes_75
+    21300152: shapes_76
+    21300154: shapes_77
+    21300156: shapes_78
+    21300158: shapes_79
+    21300160: shapes_80
+    21300162: shapes_81
+    21300164: shapes_82
+    21300166: shapes_83
+    21300168: shapes_84
+    21300170: shapes_85
+    21300172: shapes_86
+    21300174: shapes_87
+    21300176: shapes_88
+    21300178: shapes_89
+    21300180: shapes_90
+    21300182: shapes_91
+    21300184: shapes_92
+    21300186: shapes_93
+    21300188: shapes_94
+    21300190: shapes_95
+    21300192: shapes_96
+    21300194: shapes_97
+    21300196: shapes_98
+    21300198: shapes_99
+    21300200: shapes_100
+    21300202: shapes_101
+    21300204: shapes_102
+    21300206: shapes_103
+    21300208: shapes_104
+    21300210: shapes_105
+    21300212: shapes_106
+    21300214: shapes_107
+    21300216: shapes_108
+    21300218: shapes_109
+    21300220: shapes_110
+    21300222: shapes_111
+    21300224: shapes_112
+    21300226: shapes_113
+    21300228: shapes_114
+    21300230: shapes_115
+    21300232: shapes_116
+    21300234: shapes_117
+    21300236: shapes_118
+    21300238: shapes_119
+    21300240: shapes_120
+    21300242: shapes_121
+    21300244: shapes_122
+    21300246: shapes_123
+    21300248: shapes_124
+    21300250: shapes_125
+    21300252: shapes_126
+    21300254: shapes_127
+    21300256: shapes_128
+    21300258: shapes_129
+    21300260: shapes_130
+    21300262: shapes_131
+    21300264: shapes_132
+    21300266: shapes_133
+    21300268: shapes_134
+    21300270: shapes_135
+    21300272: shapes_136
+    21300274: shapes_137
+    21300276: shapes_138
+    21300278: shapes_139
+    21300280: shapes_140
+    21300282: shapes_141
+    21300284: shapes_142
+    21300286: shapes_143
+    21300288: shapes_144
+    21300290: shapes_145
+    21300292: shapes_146
+    21300294: shapes_147
+    21300296: shapes_148
+    21300298: shapes_149
+    21300300: shapes_150
+    21300302: shapes_151
+    21300304: shapes_152
+    21300306: shapes_153
+    21300308: shapes_154
+    21300310: shapes_155
+    21300312: shapes_156
+    21300314: shapes_157
+    21300316: shapes_158
+    21300318: shapes_159
+    21300320: shapes_160
+    21300322: shapes_161
+    21300324: shapes_162
+    21300326: shapes_163
+    21300328: shapes_164
+    21300330: shapes_165
+    21300332: shapes_166
+    21300334: shapes_167
+    21300336: shapes_168
+    21300338: shapes_169
+    21300340: shapes_170
+    21300342: shapes_171
+    21300344: shapes_172
+    21300346: shapes_173
+    21300348: shapes_174
+    21300350: shapes_175
+    21300352: shapes_176
+    21300354: shapes_177
+    21300356: shapes_178
+    21300358: shapes_179
+    21300360: shapes_180
+    21300362: shapes_181
+    21300364: shapes_182
+    21300366: shapes_183
+    21300368: shapes_184
+    21300370: shapes_185
+    21300372: shapes_186
+    21300374: shapes_187
+    21300376: shapes_188
+    21300378: shapes_189
+    21300380: shapes_190
+    21300382: shapes_191
+    21300384: shapes_192
+    21300386: shapes_193
+    21300388: shapes_194
+    21300390: shapes_195
+    21300392: shapes_196
+    21300394: shapes_197
+    21300396: shapes_198
+    21300398: shapes_199
+    21300400: shapes_200
+    21300402: shapes_201
+    21300404: shapes_202
+    21300406: shapes_203
+    21300408: shapes_204
+    21300410: shapes_205
+    21300412: shapes_206
+    21300414: shapes_207
+    21300416: shapes_208
+    21300418: shapes_209
+    21300420: shapes_210
+    21300422: shapes_211
+    21300424: shapes_212
+    21300426: shapes_213
+    21300428: shapes_214
+    21300430: shapes_215
+    21300432: shapes_216
+    21300434: shapes_217
+    21300436: shapes_218
+    21300438: shapes_219
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shapes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shapes_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
