@@ -11,9 +11,26 @@ public abstract class Block : MonoBehaviour
         get { return BlockMaterialManager.Instance.fromType(materialType);  }
     }
 
+    // a transient block is a tower block being placed that is allowed to collide with terrain
+    public bool IsTransient
+    {
+        get
+        {
+            return type == BlockType.Tower && gameObject.IsTransient();
+        }
+    }
+
     public abstract float Height
     {
         get;
+    }
+
+    public float Mass
+    {
+        get
+        {
+            return gameObject.GetComponent<Rigidbody2D>().mass;
+        }
     }
 
     protected abstract Collider2D AddCollider();
@@ -51,7 +68,9 @@ public abstract class Block : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (type == BlockType.Terrain && GameState.State != null)
+        Block otherBlock = col.gameObject.GetComponent<Block>();
+        // lose game if an active tower block collides with terrain block
+        if (otherBlock != null && !otherBlock.IsTransient && type == BlockType.Terrain && otherBlock.type == BlockType.Tower && GameState.State != null)
         {
             GameState.State.OnLose();
         }

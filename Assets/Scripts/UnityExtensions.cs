@@ -55,6 +55,11 @@ public static class UnityExtensions {
         body.gravityScale = 0;
     }
 
+    public static bool IsTransient(this GameObject obj)
+    {
+        return obj.GetComponent<Rigidbody2D>().mass <= 0.0001; // mass is changed to small number when set to 0
+    }
+
     public class Vector2SerializationSurrogate : ISerializationSurrogate
     {
         public void GetObjectData(object obj, SerializationInfo info, StreamingContext context)
